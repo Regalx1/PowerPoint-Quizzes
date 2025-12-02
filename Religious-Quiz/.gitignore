@@ -1,0 +1,11 @@
+# Large/Binary Files
+*.mhtml
+*.pptx
+*.gslides
+
+# Generated Images
+previews/
+
+# System Files
+.DS_Store
+Thumbs.db
